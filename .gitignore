@@ -1,0 +1,4 @@
+*.swp
+env
+uploads/date.txt
+uploads/file1k
